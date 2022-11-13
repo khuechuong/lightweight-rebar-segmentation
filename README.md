@@ -28,4 +28,5 @@ This network uses a small number of parameters, is time efficient, and has highe
 #### Image results:
 
 | Image       |  Ground Truth   | ESPnet  | Segnet | PSPnet | Enet | Our Approach |
+| :-------------|:-------------  | :-----|:-----|:-----|
 |<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/gt.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|
