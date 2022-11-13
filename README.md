@@ -4,6 +4,12 @@ This code is based on [Image Segmentation Keras](https://github.com/divamgupta/i
 
 This network uses a small number of parameters, is time efficient, and has higher accuracy than other architecture.
 
+Our Architecture:
+![alt text](https://github.com/aralab-unr/multi-robot-cleaning/blob/master/Create_Autonomy%20Modification/68407733_889934048043712_2616492075268440064_n.jpg)   
+
+Our Module:
+![alt text](https://github.com/aralab-unr/multi-robot-cleaning/blob/master/Create_Autonomy%20Modification/68407733_889934048043712_2616492075268440064_n.jpg)   
+
 | Methods       |  Accuracy (%)   | Mean IoU (%)  | Params | FPS|
 | :-------------|:-------------  | :-----|:-----|:-----|
 | ESPnet        | 99.17           | 79.39  |14,158,566 |77 |
