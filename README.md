@@ -4,10 +4,11 @@ This code is based on [Image Segmentation Keras](https://github.com/divamgupta/i
 
 This network uses a small number of parameters, is time efficient, and has higher accuracy than other architecture.
 
-Our Architecture:
+Our Architecture and module:
+
 <img align="left" width="600" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/everything.png">
 
-Our Module:
+
 <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/mod.png">
 
 | Methods       |  Accuracy (%)   | Mean IoU (%)  | Params | FPS|
