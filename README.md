@@ -27,6 +27,13 @@ This network uses a small number of parameters, is time efficient, and has highe
 
 #### Image results:
 
-| Image       |  Ground Truth   | ESPnet  | Segnet | PSPnet | Enet | Our Approach |
-| :-------------|:-------------  | :-----|:-----|:-----|:-----|:-----|
-|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/gt.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/esp.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/segnet.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/psp.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/enet.png">|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/custom.png">|
+| lol       | lol |
+| :-------------|:-------------  |
+|Image|<img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|
+|Ground Truth   | <img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/gt.png">|
+|ESPnet  | <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/esp.png">|
+|Segnet | <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/segnet.png">|
+|PSPnet | <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/psp.png">|
+|Enet | <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/enet.png">|
+|Our Approach |<img width="3050" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/custom.png">|
+
