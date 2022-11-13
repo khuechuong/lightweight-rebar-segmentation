@@ -4,7 +4,7 @@ This code is based on [Image Segmentation Keras](https://github.com/divamgupta/i
 
 This network uses a small number of parameters, is time efficient, and has higher accuracy than other architecture.
 
-| Tables        | Are           | Cool  |
+| Methods       |  Accuracy     | Mean IoU  | Params | FPS|
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
