@@ -23,3 +23,9 @@ This network uses a small number of parameters, is time efficient, and has highe
 | PSPnet        | 98.57           |   69.44|25,563,348  |47 |
 | ENet          | 99.40           |   84.30|**363,206**| 71|
 | Our approach  | **99.49**       |   **86.25**|10,898,960 | **91**|
+
+
+#### Image results:
+
+| Image       |  Ground Truth   | ESPnet  | Segnet | PSPnet | Enet | Our Approach |
+|<img width="150" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/gt.png||||||
