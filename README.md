@@ -27,7 +27,7 @@ This network uses a small number of parameters, is time efficient, and has highe
 
 #### Image results:
 
-| lol       | lol |
+| Name       | Image |
 | :-------------|:-------------  |
 |Image|<img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/image.png">|
 |Ground Truth   | <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/gt.png">|
