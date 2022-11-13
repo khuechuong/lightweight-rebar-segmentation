@@ -11,6 +11,8 @@ This network uses a small number of parameters, is time efficient, and has highe
 
 <img width="300" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/mod.png">
 
+### Comparison in state-of-the-art metrics
+
 | Methods       |  Accuracy (%)   | Mean IoU (%)  | Params | FPS|
 | :-------------|:-------------  | :-----|:-----|:-----|
 | ESPnet        | 99.17           | 79.39  |14,158,566 |77 |
