@@ -8,7 +8,7 @@ Our Architecture:
 ![alt text](https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/everything.png)   
 
 Our Module:
-![alt text](https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/mod.png)  
+<img width="600" src="https://github.com/khuechuong/lightweight-rebar-segmentation/blob/main/pic/mod.png">
 
 | Methods       |  Accuracy (%)   | Mean IoU (%)  | Params | FPS|
 | :-------------|:-------------  | :-----|:-----|:-----|
